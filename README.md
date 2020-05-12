@@ -1,18 +1,25 @@
-# vimium-simply-dark
+# vimium-dark
 
-Dark theme for vimium chrome extension.
+Dark themes for vimium chrome/firefox extension.
+Forked from [vimium-simply-dark](https://github.com/ysjn/vimium-simply-dark)
 
-### screen shots
+## Usage
+In Vimium Options: `Show Advanced Options` then paste into `CSS for Vimium UI`
+Uncomment theme of choice to enable.
 
-#### <kbd>f</kbd> Open links
+## Screenshots
 
-<img src="https://raw.githubusercontent.com/ysjn/vimium-simply-dark/master/captures/openLink.png" width="725">
-<img src="https://raw.githubusercontent.com/ysjn/vimium-simply-dark/master/captures/openLink2.png" width="725">
+### Tomorrow-Night
 
-#### <kbd>/</kbd> Find
+<img src="captures/tomorrow_omni.png" title="tomorrow omnibox"/>
+<img src="captures/tomorrow_hint.png" title="tomorrow hint"/>
 
-<img src="https://raw.githubusercontent.com/ysjn/vimium-simply-dark/master/captures/find.png" width="725">
+### Nord
 
-#### <kbd>o</kbd> Vomnibar
+<img src="captures/nord_omni.png" title="nord omnibox"/>
+<img src="captures/nord_hint.png" title="nord hint"/>
 
-<img src="https://raw.githubusercontent.com/ysjn/vimium-simply-dark/master/captures/vomnibar.png" width="725">
+### Doom One
+
+<img src="captures/doom_one_omni.png" title="doom_one omnibox"/>
+<img src="captures/doom_one_hint.png" title="doom_one hint"/>
